@@ -12,7 +12,7 @@ function NavTabs() {
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Home
+          Home <i class="fa-solid fa-house"></i>
         </NavLink>
       </li>
       <li className="nav-item">
@@ -22,7 +22,7 @@ function NavTabs() {
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Profile
+          Profile <i class="fa-regular fa-id-card"></i>
         </NavLink>
       </li>
       <li className="nav-item">
@@ -32,7 +32,7 @@ function NavTabs() {
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Resume
+          Resume <i class="fa-solid fa-file"></i>
         </NavLink>
       </li>
       <li className="nav-item">
@@ -43,7 +43,7 @@ function NavTabs() {
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Contact
+          Contact <i class="fa-solid fa-at"></i>
         </NavLink>
       </li>
       <li className="nav-item">
@@ -53,7 +53,7 @@ function NavTabs() {
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Learn
+          reach out <i class="fa-solid fa-square-phone-flip"></i>
         </NavLink>
       </li>
     </ul>

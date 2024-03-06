@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "ReadMe Generator",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210915020701/Readme1.png",
+    "description": "Having a README file for every project is crucial for several reasons. Firstly, it serves as a comprehensive documentation source, providing essential information about the project's purpose, functionality, and usage. This proves invaluable for collaborators, new team members, or even for the original developer returning to the project after some time. A well-crafted README enhances the project's accessibility, facilitating a smoother onboarding process and minimizing the learning curve. creating a new read me everytime can be time consuming which is why i used javascript with node to create this awesome readme generator to get all the benefits of having a read me without spending hours.",
+    "link": "https://drive.google.com/file/d/17f_gFiuHIHY717tUqZ0SISfdwxsmAIMv/view"
+  },
+  {
+    "id": 2,
+    "name": "Weather APP",
+    "image": "https://cdn-icons-png.flaticon.com/512/7133/7133364.png",
+    "description": "Knowing the weather before you travel is like being a smart traveler. It helps you get ready for your trip in the best way. Imagine you're excited for a beach holiday, but then it rains unexpectedly. Not fun, right? this is why i used javascript , html and css to design this webpage. using an api this page can display the weasther information for any city for the next 5 days.",
+    "link": "https://yasfeh12.github.io/weather-app/"
+  },
+  {
+    "id": 3,
+    "name": "Bootstrap Portfolio",
+    "image": "https://assets.startbootstrap.com/img/screenshots/themes/freelancer.jpg",
+    "description": "Having a portfolio to showcase your skills is hugly important , it can be used as a digital proof of work, ability and experiance. I am completely brand new to the web development space so in this project i have used all reasources avalible to me to really attempt to highlight my new skills that i have learned in the past 2 weeks. I used a combination of bootstrap 5.3 in conjuction with my own css, Html and a touch of java script to create a page where I can attatch and build all my current and future work.",
+    "link": "https://yasfeh12.github.io/Bootstrap-Portfolio/"
+  },
+
+  {
+    "id": 5,
+    "name": " Quiz",
+    "image": "https://d1ymz67w5raq8g.cloudfront.net/Pictures/1024x536/6/5/5/509655_shutterstock_1506580442_769367.jpg",
+    "description": "utilizing my JavaScript skills alongside HTML and CSS to create an interactive quiz. By using and calling functions with document.getElementById, I am able to manipulate my HTML to cycle through the questions of the quiz. This approach makes it easy to add or change the questions and answers of the quiz dynamically. I've implemented a generic timer to help keep track of the quiz score. Additionally, I have incorporated a combination of localStorage.getItem and localStorage.setItem to store and display the high scores of the quiz. Leveraging JavaScript, I've made the transitions seamless and interactive, enhancing the overall user experience.",
+    "link": "https://yasfeh12.github.io/quiz/index.html"
+  },
+  {
+    "id": 6,
+    "name": "Stock Up",
+    "image": "https://cdn.mos.cms.futurecdn.net/NRiF4ngdtVpfdKeSRvyBFJ.jpg",
+    "description": "Stock Up is a user-friendly Financial Ticker Stock Checker designed to keep users updated with real-time stock information. Leveraging API calls, the web application simplifies the process of monitoring stock prices, empowering investors and traders to make informed decisions in the dynamic world of finance.",
+    "link": "https://github.com/sarbanibhadra/Stock-Up-App"
+  }
+]

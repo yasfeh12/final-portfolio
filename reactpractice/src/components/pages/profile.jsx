@@ -21,7 +21,15 @@ What sets me apart is not just my academic achievements but my genuine enthusias
 With a dynamic and innovative approach, I am eager to contribute to and thrive in any tech-driven team. Whether it's coding, creating, or exploring new possibilities, I bring a passion for innovation and a commitment to excellence in everything I do.
 
       </p>
+
+      <button onClick={() => window.open('https://yasfeh12.github.io/Bootstrap-Portfolio/', '_blank')}
+      className="btn btn-dark" 
+       id="resume-btn"
+      >
+    More on me?
+      </button>
     </div>
+    
   );
 }
 
